@@ -57,7 +57,7 @@ h1, h2, h3, h4, p{
   background-size: cover;
 }
 
-#gift-img-happy:active{
+#gift-img-happy:hover{
   background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dvc3BpdHh6OGdiZzZ6Nmxxcjk2Z3locjJlZW1vc3Z3cDc0ODFvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IyWYETXGzO95Li/giphy.gif");
 }
 
